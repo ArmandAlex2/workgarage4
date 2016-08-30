@@ -2,11 +2,14 @@
   "name": "workgarage4",
   "version": "0.0.1",
   "description": "Web site project showcasing Web development",
-  "main": "index.js"
-  },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ArmandAlex2/workgarage4.git"
   },
-  "author": "Armand Nerbas"
+  "author": "Armand Nerbas",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
