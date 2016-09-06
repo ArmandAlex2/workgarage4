@@ -1,6 +1,6 @@
 @import "http://fonts.googleapis.com/css?family=Patua+One|Inika";
 body {
-  background: #eddbba;
+  background: #3afdf7;
   font-family: "Inika", serif;
   font-size: 1.1em;
 }
@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3.5em;
   margin-bottom: 10px;
-  color: #507356;
+  color: #05A29D;
 }
 @media (max-width: 700px) {
   h1 {
@@ -92,13 +92,13 @@ section {
 }
 
 .featuredartists {
-  background: #8D8862;
-  border-top: 20px solid #E3C691;
-  border-bottom: 50px solid #507356;
+  background: #04827E;
+  border-top: 20px solid #08FCF5;
+  border-bottom: 50px solid #05A29D;
 }
 .featuredartists h1 {
   font-size: 3em;
-  color: #263729;
+  color: #023f3d;
 }
 @media (max-width: 700px) {
   .featuredartists h1 {
@@ -108,7 +108,7 @@ section {
 .featuredartists h2 {
   margin-top: 20px;
   font-size: 1.8em;
-  color: #dbb570;
+  color: #03d9d2;
 }
 @media (max-width: 700px) {
   .featuredartists h2 {
@@ -116,7 +116,7 @@ section {
   }
 }
 .featuredartists p {
-  color: #314634;
+  color: #035855;
 }
 .featuredartists .artistlist {
   padding-bottom: 20px;
@@ -124,11 +124,11 @@ section {
 .featuredartists .artistlist h2 {
   margin-top: 5px;
   font-size: 1.2em;
-  color: #ebd7b2;
+  color: #30fcf7;
 }
 .featuredartists .artistlist .item {
   min-width: 95px;
-  color: #6f6b4d;
+  color: #02514e;
   width: 18%;
   float: left;
   padding: 1%;
@@ -155,7 +155,7 @@ section {
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
-  border-bottom: 50px solid #8D8862;
+  border-bottom: 50px solid #04827E;
 }
 @media (min-width: 801px) {
   .potterypix {
@@ -187,7 +187,7 @@ section {
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
-  border-bottom: 50px solid #8D8862;
+  border-bottom: 50px solid #04827E;
 }
 @media (min-width: 801px) {
   .workshoppix {
@@ -213,8 +213,8 @@ section {
 }
 .ontour h2 {
   font-size: 1.8em;
-  color: #8D8862;
-  border-top: 1px solid #8D8862;
+  color: #04827E;
+  border-top: 1px solid #04827E;
   padding-top: 5px;
 }
 .ontour h3 {
